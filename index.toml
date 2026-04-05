@@ -26,7 +26,7 @@ hash = "55768f1f84fb117f1d0fc383e180b5d0aa5e5e6584c8c4a2995c15b4237f0972"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "cb09e76bbae0616e6a3e381515812648c6acfaa8407d622226a23d651cb3cc9b"
+hash = "7eaa073d94745a36a04a6f822b9f14854d5aae469998eb973998412e2be4554f"
 
 [[files]]
 file = "config/create-client.toml"
@@ -141,34 +141,6 @@ file = "config/jei/recipe-category-sort-order.ini"
 hash = "270f2ad6021635d7e1a12c085fcc8e993959a353a27028a6eeebbcd0e7248eb4"
 
 [[files]]
-file = "config/jei/world/local/New_World__5/lookupHistory.json"
-hash = "11cce1b640f43ec4641864b397f68ca7aa4f5f5b882cb98029df7f3cd0430721"
-
-[[files]]
-file = "config/jei/world/local/world/bookmarks.json"
-hash = "b25ef6987efe765e73a078ad091d701b6a88290aee83bcb86af636255afdd657"
-
-[[files]]
-file = "config/jei/world/local/world/lookupHistory.json"
-hash = "4d612fd3020141be492e763807ba299b48ed7a25dd40e625ffa4de8ff35c0513"
-
-[[files]]
-file = "config/jei/world/server/Makeshift_164a54cd/bookmarks.json"
-hash = "26ebd55a7e56e032abd138ea01605df90f760fa0bea2e5c1d2642b9a341bbeae"
-
-[[files]]
-file = "config/jei/world/server/Makeshift_164a54cd/lookupHistory.json"
-hash = "d4bdbc64f8e4340d82ae6cd4fb020487b10abf1ba0af1324dc4302da64182cf3"
-
-[[files]]
-file = "config/jei/world/server/Minecraft_Server_164a54cd/bookmarks.json"
-hash = "b25f1b3159ef270e5b65a9699e3f2ecf58b4abf25a8bd06e3e49bf848dc15501"
-
-[[files]]
-file = "config/jei/world/server/Minecraft_Server_164a54cd/lookupHistory.json"
-hash = "d419e7ac68c18c0088c2189f55e772a6eb279e695b2183798d530b10944359db"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
 metafile = true
@@ -270,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "c45dce6b9e52796c0606ff222efa5833fd1d420fa67e7a8f26852196b80f6fa5"
+hash = "0620370193cd76f48ebf81bd0d213cdc3adb5c640d8e39d5758d6f166c0c5036"
 metafile = true
 
 [[files]]
