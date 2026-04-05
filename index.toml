@@ -14,7 +14,7 @@ hash = "6172c5997eeb3cd19c9ca2b5b97d6e2983cdd1fa60b2460d7bbb74055edcaa46"
 
 [[files]]
 file = ".idea/misc.xml"
-hash = "2344aa0de074ee6b83e6e0491ecac98770aaf1636fa1dedff2b173bbb33a934e"
+hash = "29e47b4b32ea1784a7156c41f7a21ef0a9fac3ef3dc70e243b3a15b08c07d810"
 
 [[files]]
 file = ".idea/modules.xml"
@@ -26,7 +26,7 @@ hash = "55768f1f84fb117f1d0fc383e180b5d0aa5e5e6584c8c4a2995c15b4237f0972"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "542d6bd5d4cd95d7fd82ccae0cdb74d3d05dc53d4c3dd325dca02cdd6653ec39"
+hash = "cb09e76bbae0616e6a3e381515812648c6acfaa8407d622226a23d651cb3cc9b"
 
 [[files]]
 file = "config/create-client.toml"
@@ -736,6 +736,11 @@ metafile = true
 [[files]]
 file = "mods/straw-statues.pw.toml"
 hash = "8a7cca23996635e2171cfdf4bef21c7674a979225011e2243b3ff09f168e88f6"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
 metafile = true
 
 [[files]]
