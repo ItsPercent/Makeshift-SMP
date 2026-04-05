@@ -1,0 +1,13 @@
+name = "Comforts"
+filename = "comforts-forge-9.0.5+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SaCpeal4/versions/y86r9JqA/comforts-forge-9.0.5%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "32f6a0877d92ff5c8af424840fd8e2d4b5d531291733e650b363c5cbd0742a65d1b5caf120165d6dbb517188cddffeb21edd1991bd0734b4c5873ec9ffb0c34f"
+
+[update]
+[update.modrinth]
+mod-id = "SaCpeal4"
+version = "y86r9JqA"

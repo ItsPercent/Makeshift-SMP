@@ -1,0 +1,6 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"create:stressometer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:gray_terracotta"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:granite"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

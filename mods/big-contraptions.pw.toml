@@ -1,0 +1,13 @@
+name = "Create: Big Contraptions"
+filename = "CreateBigContraptions-1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jv0UKGOX/versions/XthSepDE/CreateBigContraptions-1.0.jar"
+hash-format = "sha512"
+hash = "697c8f359f727319933205a441405590dafc69cd4ef406ebe56d6065a07d7de52fe80aa26bfa43f7b7ab5c6bf06444302c6964acdde93dd5b2c5ad9fd48aafbe"
+
+[update]
+[update.modrinth]
+mod-id = "jv0UKGOX"
+version = "XthSepDE"
