@@ -1,13 +1,13 @@
 name = "Macaw's Stairs"
-filename = "mcw-mcwstairs-1.0.2-mc1.20.4neoforge.jar"
+filename = "mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/iP3wH1ha/versions/PpLPxmDZ/mcw-mcwstairs-1.0.2-mc1.20.4neoforge.jar"
+url = "https://cdn.modrinth.com/data/iP3wH1ha/versions/4t8L0dGP/mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar"
 hash-format = "sha512"
-hash = "54e73a4f2913b2930932924d6e6199dd1255eee0d24e8e7a892d8c4be7eb4533a094114671d7201218a69e6817389284cc1dd2852b8455c2dded4c8119efe9ff"
+hash = "51533899b5e64610a642ee9e9d89eb9f193d0877a8cba16d3bfa262789334c864128b01757bff9d3db2718bd3df1fc177f9b2d45b84f06fc0a6ee15474af2fac"
 
 [update]
 [update.modrinth]
 mod-id = "iP3wH1ha"
-version = "PpLPxmDZ"
+version = "4t8L0dGP"

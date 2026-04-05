@@ -1,13 +1,13 @@
 name = "Create: Garnished"
-filename = "garnished-2.1.9+1.21.1-neoforged.jar"
+filename = "garnished-april-foods-26-neoforged.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6e2SlzR4/versions/E6dza7zL/garnished-2.1.9%2B1.21.1-neoforged.jar"
+url = "https://cdn.modrinth.com/data/6e2SlzR4/versions/w7HZbZUe/garnished-april-foods-26-neoforged.jar"
 hash-format = "sha512"
-hash = "f65fc6d702bfe689cb726f2b15dee7a087f51f11255281e6d8292cafcd76732affc4dfb9116b7042fceadc4e5bb2bf00c24d4e39df796d5664acd5f642e1c28b"
+hash = "9a3111e2896e9a5df1dd1320cda91dc48a6a86853f6481c56d9b82140cea5641efb2eade7e9ae7ef08dde9ea51dce8a24490bb4ec16fe30103bddf110a08ee15"
 
 [update]
 [update.modrinth]
 mod-id = "6e2SlzR4"
-version = "E6dza7zL"
+version = "w7HZbZUe"
